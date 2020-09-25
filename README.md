@@ -7,4 +7,4 @@
 |  遷移先での画面がカード式になっている  |  StoryBoardのSegueの設定をFullScreenにする．  | 
 |  TableViewCellに日付を追加  | - |
 |  XibでのTableViewの実装  |  -  | 
-|  -  |  -  | 
+|  -  |  -  　| 
